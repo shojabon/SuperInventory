@@ -1,0 +1,6 @@
+name: SInventory
+version: ${project.version}
+main: com.shojabon.sinventory.SuperInventory
+authors: [Sho0]
+commands:
+ test:
